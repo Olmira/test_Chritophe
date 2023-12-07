@@ -1,11 +1,11 @@
 # Machine Learning en version streamlit exploitable
 import streamlit as st
 import pandas as pd
-from sklearn.neighbors import NearestNeighbors
-from sklearn.preprocessing import StandardScaler
-import zipfile
-import csv
-from io import TextIOWrapper
+#from sklearn.neighbors import NearestNeighbors
+#from sklearn.preprocessing import StandardScaler
+#import zipfile
+#import csv
+#from io import TextIOWrapper
 
 # Chemin vers le fichier ZIP contenant le fichier CSV
 zf1 = zipfile.ZipFile( './Base_prete.zip')
