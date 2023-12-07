@@ -1,0 +1,4 @@
+matplotlib
+pandas
+scikit_learn
+streamlit >= 1.9.2
